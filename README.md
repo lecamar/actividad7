@@ -1,6 +1,6 @@
 # Historial de Vacunas – Clínica Veterinaria (Ruby)
 
-Programa en **Ruby** que lleva el historial de vacunas de una clínica veterinaria. Fue desarrollado como actividad universitaria de Programación Orientada a Objetos para evidenciar herencia, clases abstractas, encapsulamiento, asociación entre clases, polimorfismo, módulos, modularidad y manejo de archivos.
+Programa en **Ruby** que lleva el historial de vacunas de una clínica veterinaria. Fue desarrollado como actividad de Programación Orientada a Objetos para evidenciar herencia, clases abstractas, encapsulamiento, asociación entre clases, polimorfismo, módulos, modularidad y manejo de archivos.
 
 ---
 
@@ -131,3 +131,9 @@ Miauricio,gato,Indiana Jones,Leucemia felina
 ```
 
 El programa lee ese archivo y muestra cuántas vacunas se aplicaron por especie. Si el archivo no existe, el error se captura con `begin/rescue` y se muestra el mensaje `[ERROR] El archivo '...' no existe.` sin detener el programa.
+
+## Evidencias
+
+<img width="1112" height="875" alt="Screenshot 2026-11-11 201748" src="https://github.com/user-attachments/assets/548c653b-5456-4836-8c2b-283b376ee080" />
+<img width="1411" height="892" alt="Screenshot 2026-11-11 201758" src="https://github.com/user-attachments/assets/7f782d9f-235f-4188-a2c8-76322a55ffe8" />
+<img width="1378" height="894" alt="Screenshot 2026-11-11 201807" src="https://github.com/user-attachments/assets/54b42c92-0570-4305-a517-3a7c3a655624" />
